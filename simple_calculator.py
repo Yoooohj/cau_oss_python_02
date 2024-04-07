@@ -33,4 +33,3 @@ while True:
     print(f"{num1}{op}{num2} = {ret}")  # 연산 결과를 출력
 
 print("Exit program")
-# %%
